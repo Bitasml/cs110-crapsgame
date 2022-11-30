@@ -1,2 +1,2 @@
 # cs110-crapsgame
-Craps Game - CS110 Final Project  
+3D-Segmentation - T680 Final Project  
