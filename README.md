@@ -1,2 +1,2 @@
-# cs110-crapsgame
-3D-Segmentation - T680 Final Project  
+# T680 Final Project 
+3-D Segmentation of fiber-reinforced polymercomposites Using U-net Model!
